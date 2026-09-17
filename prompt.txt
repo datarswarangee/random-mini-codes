@@ -1,0 +1,13 @@
+The prompt which help me survive brutal AI video Generation! (Ps. Thankyou ChatGPT!)
+
+Use the reference video as the exact motion and performance reference and the reference photo as the exact character identity reference.
+Recreate the scene with the character from the reference photo while following the reference video as precisely as possible, frame by frame. Preserve the exact sequence, timing, body movements, hand movements, gestures, posture changes, facial movements, direction of movement, interaction with objects, and overall choreography shown in the reference video.
+The character's face and identity must match the reference photo exactly. Preserve the same facial structure, facial proportions, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and overall recognizable identity. Do not reinterpret, redesign, beautify, age, de-age, or alter the character's face.
+Motion priority: Follow the reference video's actions exactly. Do not add, remove, exaggerate, or invent movements. Maintain the same body positioning, movement trajectory, pacing, gesture timing, and sequence of actions.
+Identity priority: Keep the character's face consistently identical to the reference photo throughout the entire video. Prevent facial drift, identity changes, morphing, or changes in facial proportions between frames.
+Maintain the same camera perspective, framing, shot composition, camera movement, subject positioning, and timing as the reference video wherever possible. Keep the character anatomically consistent and ensure smooth, natural motion without unintended movements.
+Do not introduce new actions, expressions, poses, camera angles, objects, characters, or scene changes that are not present in the reference video.
+The final result should look like the person in the reference photo performing the exact actions from the reference video, while preserving the original motion choreography and visual continuity of the reference video.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
